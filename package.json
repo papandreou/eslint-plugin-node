@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-node",
+  "name": "eslint-plugin-node-papandreou",
   "version": "11.0.0",
   "description": "Additional ESLint's rules for Node.js",
   "engines": {
