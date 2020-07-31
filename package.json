@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-node-papandreou",
-  "version": "11.0.0",
+  "version": "11.0.0-patch1",
   "description": "Additional ESLint's rules for Node.js",
   "engines": {
     "node": ">=8.10.0"
